@@ -1,8 +1,9 @@
 .DS_Store
 .git
 
-# Ignore history folder
+# Ignore generated folders
 History/
+__Previews/
 
 # Ignore project logs
 *.LOG
