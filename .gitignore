@@ -1,0 +1,8 @@
+.DS_Store
+.git
+
+# Ignore history folder
+History
+
+# Ignore project logs
+*.LOG
