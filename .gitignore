@@ -4,6 +4,7 @@
 # Ignore generated folders
 History/
 __Previews/
+FootprintImports/Imported*.lia/
 
 # Ignore project logs
 *.LOG
