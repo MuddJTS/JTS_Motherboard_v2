@@ -2,7 +2,7 @@
 .git
 
 # Ignore history folder
-History
+History/
 
 # Ignore project logs
 *.LOG
