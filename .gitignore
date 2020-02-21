@@ -4,7 +4,10 @@
 # Ignore generated folders
 History/
 __Previews/
-FootprintImports/Imported*.lia/
+
+# FootprintImports/Imported*.lia/
+FootprintImports/
+3D_Model_Imports/
 
 # Ignore project logs
 *.LOG
