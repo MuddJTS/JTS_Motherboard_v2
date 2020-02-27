@@ -214,7 +214,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -223,6 +223,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVRMYBOQ
+
+[Parameter1]
+Name=DrawnBy
+Value=Caleb Norfleet
 
 [Configuration1]
 Name=Sources
@@ -1060,7 +1064,7 @@ Type65=1
 Type66=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
