@@ -1,3 +1,5 @@
 replace the green GPIO LED with a switch for input
 change the yellow led to blue?
 add two green LEDs for 5V and 3V3 power?  Or battery A + B power?
+
+add GND pinout for each pyro channel
