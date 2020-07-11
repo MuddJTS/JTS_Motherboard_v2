@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for JTS_Motherboard_v2
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -242,7 +242,75 @@ GenerateClassCluster=0
 DocumentUniqueId=ISECAPJL
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\BOM\Bill of Materials-JTS_Motherboard_v2.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for JTS_Motherboard_v2\Design Rule Check - pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\NC Drill\pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\NC Drill\pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\Gerber\pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for JTS_Motherboard_v2\NC Drill\pcb.TXT
 DItemRevisionGUID=
 
 [Parameter1]
@@ -260,7 +328,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for JTS_Motherboard_v2
 
 [OutputGroup1]
 Name=Netlist Outputs
