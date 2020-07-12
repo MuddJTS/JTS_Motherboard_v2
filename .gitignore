@@ -1,5 +1,6 @@
 .DS_Store
 .git
+*.LOG
 
 # Ignore generated folders
 History/
@@ -9,6 +10,3 @@ Project Outputs for JTS_Motherboard_v2/
 # FootprintImports/Imported*.lia/
 FootprintImports/
 3D_Model_Imports/
-
-# Ignore project logs
-*.LOG
